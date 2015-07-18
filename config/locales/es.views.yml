@@ -1,0 +1,11 @@
+es:
+  soon:
+    index:
+      title: 'Próximamente'
+      subtitle: 'Constructora Fracher S.A de C.V.'
+      text1: 'Estamos trabajando en un mejor sitio y así brindarles un excelente servicio.'
+      text2: 'Tenemos previsto lanzar en:'
+      text3: 'Escríbenos tu correo y te informaremos cuando esté disponible'
+      placeholder: 'Ejemplo: hola@fracher.com.mx'
+      error: 'Se requiere un email valido.'
+      send: 'Enviar'
